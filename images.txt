@@ -7,3 +7,4 @@ elasticsearch:7.14.1
 kibana:7.14.1
 logstash:7.14.1
 nginx
+elastic/filebeat:7.14.1
